@@ -130,7 +130,7 @@
               <span>Budget</span>
             </a>
           </li>
-          <!-- <li>
+          <!-- <li> 
             <a href="<?php echo base_url('Master/adminLogout') ?>">
               <i class="ti-lock"></i>
               <span>Logout</span>
